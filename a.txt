@@ -2,3 +2,4 @@ Nama : Eviana Widiyaningsih
 Jurusan : SIJA
 TTL : Sleman, 23 September 2005
 is_bisa_mengwibu : True
+usia : 17
